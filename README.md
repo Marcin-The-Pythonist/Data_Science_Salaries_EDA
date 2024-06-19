@@ -19,11 +19,11 @@
  ![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/2da6fc56-2b5f-41f8-b4e1-b8d42cc7bd1d)
 
  ### In which country do data specialists earn the highest?
- <img src="![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/c6296728-5676-413c-81a0-505f6a25df24)">
+ ![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/c6296728-5676-413c-81a0-505f6a25df24)"
 
  ### Which job title is paid the most?
- <img src="![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/07c67693-4cb9-4bda-8fdc-a20470b5588c)">
+![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/07c67693-4cb9-4bda-8fdc-a20470b5588c)"
 
  ### How does experience affect the salary?
- <img src="![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/3b347d5a-c623-48a5-9743-52de722dc6b8)">
+![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/3b347d5a-c623-48a5-9743-52de722dc6b8)"
  
