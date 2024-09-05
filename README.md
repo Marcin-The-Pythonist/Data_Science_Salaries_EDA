@@ -20,16 +20,16 @@
 
  ### In which country do data specialists earn the highest?
  
-PR: Puerto Rico
-UA: Ukraine
-US: United States
-NZ: New Zeland
-CA: Canada
-EG: Egypt
-CH: Switzerland
-IL: Israel
-AU: Australia
-DZ: Algeria
+PR: Puerto Rico<br>
+UA: Ukraine<br>
+US: United States<br>
+NZ: New Zeland<br>
+CA: Canada<br>
+EG: Egypt<br>
+CH: Switzerland<br>
+IL: Israel<br>
+AU: Australia<br>
+DZ: Algeria<br>
  
  ![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/c6296728-5676-413c-81a0-505f6a25df24)"
 
