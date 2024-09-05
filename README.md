@@ -19,7 +19,7 @@
  ![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/2da6fc56-2b5f-41f8-b4e1-b8d42cc7bd1d)
 
  ### In which country do data specialists earn the highest?
- -----------------------
+ 
 PR: Puerto Rico
 UA: Ukraine
 US: United States
@@ -30,7 +30,7 @@ CH: Switzerland
 IL: Israel
 AU: Australia
 DZ: Algeria
------------------------
+ 
  ![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/c6296728-5676-413c-81a0-505f6a25df24)"
 
  ### Which job title is paid the most?
