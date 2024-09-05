@@ -9,7 +9,7 @@
 </ul>
 
 ### How is salary spread? 
- **Salary in USD in Data Field**
+ **Salary in USD in Data Field**<br>
  Mean salary: 149664.11 USD<br>
  Median salary: 140800.0 USD<br>
  Most of the people earn between 77349.75 and 221978.47 USD<br>
