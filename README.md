@@ -18,7 +18,7 @@
  ### Can a salary trend be observed in the data science sector?
  ![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/2da6fc56-2b5f-41f8-b4e1-b8d42cc7bd1d)
 
- ### In which country do data specialists earn the highest?<br>
+ ### In which country do data specialists earn the highest?
  -----------------------
 PR: Puerto Rico
 UA: Ukraine
