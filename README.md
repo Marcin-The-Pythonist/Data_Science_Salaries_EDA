@@ -1,4 +1,4 @@
-# Data_Science_Salaries_EDA
+# Data Science Salaries Analysis
 ### Questions to answer:
 <ul>
 <li>How is salary spread? What are the mean, standard deviation, and median?</li>
