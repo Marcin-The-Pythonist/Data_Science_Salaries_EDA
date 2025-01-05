@@ -36,14 +36,14 @@ IL: Israel<br>
 AU: Australia<br>
 DZ: Algeria<br>
  
- ![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/c6296728-5676-413c-81a0-505f6a25df24)"
+ ![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/c6296728-5676-413c-81a0-505f6a25df24)
 <hr>
 
  ### Which job title is paid the most?
-![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/07c67693-4cb9-4bda-8fdc-a20470b5588c)"
+![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/07c67693-4cb9-4bda-8fdc-a20470b5588c)
 
  ### How does experience affect the salary?
-![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/3b347d5a-c623-48a5-9743-52de722dc6b8)"
+![image](https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/assets/119814659/3b347d5a-c623-48a5-9743-52de722dc6b8)
 <hr>
 
 ### Credits
