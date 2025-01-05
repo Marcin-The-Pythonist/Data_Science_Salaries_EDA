@@ -1,4 +1,6 @@
 # Data Science Salaries Analysis
+### Cleaning process
+<i><a href="https://github.com/Marcin-The-Pythonist/Data_Science_Salaries_EDA/blob/main/data-science-eda.ipynb">Pleas check my notebook</a></i>
 ### Questions to answer:
 <ul>
 <li>How is salary spread? What are the mean, standard deviation, and median?</li>
